@@ -25,6 +25,6 @@
 | Sourish Awasthi         | LooninS                | IIIT Allahabad                  |
 | Ishan Tripathi          | ishantripathi64        | IIIT Allahabad                  |
 | Lavay Garg              | lavaygarg              | IIIT Allahabad                  |
+
 <!-- ADD ABOVE THIS -->
 <!-- example | Korvac | Betty | Reyansh College | -->
-
